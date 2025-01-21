@@ -1,0 +1,5 @@
+.react-pdf__Page{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
